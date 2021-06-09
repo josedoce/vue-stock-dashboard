@@ -6,7 +6,7 @@
 
 Pagina principal
 
-![Opera Snapshot_2021-06-09_180333_localhost](Opera Snapshot_2021-06-09_180333_localhost.png)
+![Opera Snapshot_2021-06-09_180333_localhost](https://github.com/josedoce/vue-stock-dashboard/blob/master/Opera%20Snapshot_2021-06-09_180333_localhost.png)
 
 Pagina admin
 
