@@ -10,4 +10,4 @@ Pagina principal
 
 Pagina admin
 
-![Opera Snapshot_2021-06-09_180421_localhost](/home/josenervoso/projetos vue/stock-dashboard/Opera Snapshot_2021-06-09_180421_localhost.png)
+![Opera Snapshot_2021-06-09_180421_localhost](https://github.com/josedoce/vue-stock-dashboard/blob/master/Opera%20Snapshot_2021-06-09_180421_localhost.png)
